@@ -1,18 +1,18 @@
 {
   "name": "marketingskills",
   "owner": {
-    "name": "Corey Haines",
-    "url": "https://corey.co"
+    "name": "Divyaveer Chauhan",
+    "url": "https://github.com/divyaveerchauhan-glitch"
   },
   "metadata": {
-    "description": "Marketing skills for AI agents — conversion optimization, copywriting, SEO, paid ads, and growth",
+    "description": "Full CMO agent for Sonfus Pharma Pvt Ltd — B2B nutraceutical contract manufacturer. Covers all marketing: strategy, positioning, brand, content, copywriting, SEO, cold outreach, email sequences, WhatsApp messages, LinkedIn posts, sales decks, one-pagers, competitive analysis, GTM planning, pricing, trade show prep, PR, partnerships, market sizing, export market entry, customer research, and monthly FSSAI/market watch.",
     "version": "2.0.0",
-    "repository": "https://github.com/coreyhaines31/marketingskills"
+    "repository": "https://github.com/divyaveerchauhan-glitch/marketingskills"
   },
   "plugins": [
     {
       "name": "marketing-skills",
-      "description": "40 marketing skills for technical marketers and founders: CRO, copywriting, cold email, SEO, AI SEO, paid ads, ad creative, video production, image generation, co-marketing, churn prevention, pricing, referrals, revenue operations, sales enablement, customer research, site architecture, and more",
+      "description": "Invoke /marketing for any CMO task: strategy, positioning, brand, content, copywriting, SEO, cold outreach, email sequences, WhatsApp, LinkedIn, sales decks, competitive analysis, GTM planning, pricing, trade show, PR, export market entry, and market watch. Pre-loaded with Sonfus Pharma context — no briefing needed.",
       "source": "./"
     }
   ]

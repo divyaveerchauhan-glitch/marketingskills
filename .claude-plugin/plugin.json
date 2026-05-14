@@ -1,12 +1,12 @@
 {
   "name": "marketing-skills",
-  "description": "Marketing skills for AI agents — conversion optimization, copywriting, SEO, paid ads, ad creative, and growth",
-  "version": "1.9.0",
+  "description": "Full CMO agent for Sonfus Pharma Pvt Ltd — strategy, positioning, brand, content, copywriting, cold outreach, sales decks, competitive analysis, GTM planning, export market entry, and monthly market watch. Invoke as /marketing.",
+  "version": "2.0.0",
   "author": {
-    "name": "Corey Haines"
+    "name": "Divyaveer Chauhan"
   },
-  "homepage": "https://github.com/coreyhaines31/marketingskills",
-  "repository": "https://github.com/coreyhaines31/marketingskills",
+  "homepage": "https://github.com/divyaveerchauhan-glitch/marketingskills",
+  "repository": "https://github.com/divyaveerchauhan-glitch/marketingskills",
   "license": "MIT",
   "skills": "./skills"
 }
