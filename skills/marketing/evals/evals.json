@@ -1,0 +1,80 @@
+{
+  "skill": "marketing",
+  "evals": [
+    {
+      "input": "Write a cold email to a D2C protein brand called NutriPulse",
+      "expected_behaviors": [
+        "Opens with NutriPulse, not Sonfus",
+        "Mentions 500-unit MOQ",
+        "Under 100 words body",
+        "Includes subject line",
+        "Single CTA"
+      ]
+    },
+    {
+      "input": "What's our positioning and why?",
+      "expected_behaviors": [
+        "States Full-Stack Nutraceutical CMO as primary",
+        "References competitor scoring",
+        "Does not recommend WHO-GMP or speed as primary hook",
+        "Mentions switching cost as defensibility"
+      ]
+    },
+    {
+      "input": "Write the full homepage",
+      "expected_behaviors": [
+        "Full copy from hero to footer CTA",
+        "Trust bar includes WHO-GMP, FSSAI, 500 units, 3 weeks",
+        "Problem section before features",
+        "FAQ section included",
+        "SEO meta included"
+      ]
+    },
+    {
+      "input": "Build a 90-day go-to-market plan",
+      "expected_behaviors": [
+        "Specific to Sonfus, not generic GTM framework",
+        "Includes cold email, LinkedIn, WhatsApp, trade shows",
+        "Week-by-week or month-by-month breakdown",
+        "Includes KPIs"
+      ]
+    },
+    {
+      "input": "Write a LinkedIn post about why D2C brands struggle with sachet manufacturing",
+      "expected_behaviors": [
+        "Hook-first opening",
+        "No headers or bullets in the post",
+        "3-5 short paragraphs",
+        "Ends with question or CTA",
+        "First-person Divyaveer voice"
+      ]
+    },
+    {
+      "input": "Give me a trade show strategy for Vitafoods India",
+      "expected_behaviors": [
+        "Specific to Sonfus positioning",
+        "Booth strategy includes sachet samples and MOQ callout",
+        "Pre-show, at-show, post-show plan",
+        "Follow-up sequence included"
+      ]
+    },
+    {
+      "input": "Write a sales one-pager",
+      "expected_behaviors": [
+        "Two-sided structure",
+        "Problem, solution, process, proof, contact",
+        "Mentions WHO-GMP, FSSAI, 500 units, 3 weeks",
+        "No generic quality language"
+      ]
+    },
+    {
+      "input": "How should we price our services?",
+      "expected_behaviors": [
+        "MOQ tiers proposed",
+        "Competitive anchor vs Fermentislife and Akums",
+        "Premium justification vs manufacturing-only players",
+        "Practical recommendation"
+      ]
+    }
+  ]
+}
